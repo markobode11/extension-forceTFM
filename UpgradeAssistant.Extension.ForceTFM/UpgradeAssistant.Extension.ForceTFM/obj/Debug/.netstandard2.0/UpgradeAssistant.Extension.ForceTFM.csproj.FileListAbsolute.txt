@@ -1,0 +1,10 @@
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\bin\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.deps.json
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\bin\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.dll
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\bin\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.pdb
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.csproj.AssemblyReference.cache
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.AssemblyInfoInputs.cache
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.AssemblyInfo.cs
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.csproj.CoreCompileInputs.cache
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.dll
+C:\Projektid\Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\UpgradeAssistant.Extension.ForceTFM\obj\Debug\.netstandard2.0\UpgradeAssistant.Extension.ForceTFM.pdb

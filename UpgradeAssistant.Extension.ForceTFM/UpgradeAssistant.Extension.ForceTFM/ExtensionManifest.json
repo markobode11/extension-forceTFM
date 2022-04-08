@@ -1,0 +1,17 @@
+{
+  "ExtensionName": "ForceTFM",
+
+  "ExtensionServiceProviders": [
+    "bin\\Debug\\.netstandard2.0\\UpgradeAssistant.Extension.ForceTFM.dll"
+  ],
+
+  "ForceTFM": {
+    "TFM": "LTS" 
+  },
+  
+  "TFMOptionMap": {
+    "Current": ".net6.0",
+    "Preview": ".net6.0",
+    "LTS": ".net6.0"
+  }
+}
