@@ -2,8 +2,6 @@
 using Microsoft.DotNet.UpgradeAssistant;
 using Microsoft.DotNet.UpgradeAssistant.Extensions;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
-using Microsoft.Extensions.Configuration;
 
 namespace UpgradeAssistant.Extension.ForceTFM
 {
