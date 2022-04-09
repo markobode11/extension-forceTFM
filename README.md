@@ -36,14 +36,14 @@ Upgrade Assistant running path will remain the same.
 
 Extension can be removed via `upgrade-assistant extensions remove UpgradeAssistant.Extension.ForceTFM`
 
-Cloned repository can be added as an extension via adding `--extension [path to dir containg ExtensionManifest]` to the Upgrade Assistants
+Cloned repository can be added as an extension via adding `--extension [path to dir containing ExtensionManifest]` to the Upgrade Assistants
 running path.
 
 ### Choosing TFM
 
 By default the extension targets LTS. If you wish to change that you can add `--option "ForceTFM:TFM=[VALUE]"` to the running path.
 
-For example `--option "ForceTFM:TFM=Current`
+For example `--option "ForceTFM:TFM=Current"`
 
 ### Change the value of Current, LTS or Preview
 
