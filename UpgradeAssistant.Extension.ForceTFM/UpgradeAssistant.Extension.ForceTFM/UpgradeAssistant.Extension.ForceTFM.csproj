@@ -12,7 +12,14 @@
         <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/markobode11/extension-forceTFM</RepositoryUrl>
         <PackageTags>.NET Upgrade Assistant</PackageTags>
+        <Version>1.0.3</Version>
     </PropertyGroup>
+    
+    <ItemGroup>
+        <Content Include="ExtensionManifest.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Abstractions" Version="*" />
