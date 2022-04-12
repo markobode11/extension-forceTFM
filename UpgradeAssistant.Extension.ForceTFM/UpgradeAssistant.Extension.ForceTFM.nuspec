@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>UpgradeAssistant.Extension.ForceTFM</id>
+        <version>1.0.7</version>
+        <title>UpgradeAssistant.Extension.ForceTFM</title>
+        <authors>Marko Bode</authors>
+        <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+        <projectUrl>https://github.com/markobode11/extension-forceTFM</projectUrl>
+        <description>.NET Upgrade Assistant extension to force all assemblies to selected target framework.</description>
+        <copyright>Marko Bode</copyright>
+        <tags>.NET Upgrade Assistant</tags>
+        <repository url="https://github.com/markobode11/extension-forceTFM" />
+        <dependencies>
+            <group targetFramework=".NETStandard2.0">
+                <dependency id="Microsoft.DotNet.UpgradeAssistant.Abstractions" version="0.3.310801" exclude="Build,Analyzers" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.dll" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.pdb" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.deps.json" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\NuGetExtensionManifest\ExtensionManifest.json" target="" />
+    </files>
+</package>
