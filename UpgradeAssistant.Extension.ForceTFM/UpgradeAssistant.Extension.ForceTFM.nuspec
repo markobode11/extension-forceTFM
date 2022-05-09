@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
     <metadata>
         <id>UpgradeAssistant.Extension.ForceTFM</id>
-        <version>1.0.7</version>
+        <version>1.0.8</version>
         <title>UpgradeAssistant.Extension.ForceTFM</title>
         <authors>Marko Bode</authors>
         <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
@@ -18,9 +18,9 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.dll" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.pdb" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.deps.json" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\ExtensionManifest.json" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\.net6.0\*.dll" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\.net6.0\*.pdb" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\.net6.0\*.deps.json" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\.net6.0\ExtensionManifest.json" target="" />
     </files>
 </package>
