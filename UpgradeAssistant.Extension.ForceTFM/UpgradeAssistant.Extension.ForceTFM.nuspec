@@ -18,9 +18,9 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.dll" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.pdb" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Release\.netstandard2.0\*.deps.json" target="" />
-        <file src="UpgradeAssistant.Extension.ForceTFM\NuGetExtensionManifest\ExtensionManifest.json" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.dll" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.pdb" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\*.deps.json" target="" />
+        <file src="UpgradeAssistant.Extension.ForceTFM\bin\Debug\net6.0\ExtensionManifest.json" target="" />
     </files>
 </package>

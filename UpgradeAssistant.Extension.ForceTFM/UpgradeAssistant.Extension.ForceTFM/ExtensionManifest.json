@@ -2,7 +2,7 @@
   "ExtensionName": "ForceTFM",
 
   "ExtensionServiceProviders": [
-    "bin\\Release\\.netstandard2.0\\UpgradeAssistant.Extension.ForceTFM.dll"
+    "UpgradeAssistant.Extension.ForceTFM.dll"
   ],
 
   "ForceTFM": {
