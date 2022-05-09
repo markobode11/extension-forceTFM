@@ -24,7 +24,7 @@ Also like the Upgrade Assistant, all of these values currently point to .net6.0
 If you wish to force all frameworks to something else then there is a [way](README.md#change-the-value-of-current-lts-or-preview) for that.
 
 ## Usage
-
+ 
 ### Prerequisites
 
 Make sure the [Upgrade Assistant](https://github.com/dotnet/upgrade-assistant) itself runs.
@@ -36,8 +36,7 @@ Upgrade Assistant running path will remain the same.
 
 Extension can be removed via `upgrade-assistant extensions remove UpgradeAssistant.Extension.ForceTFM`
 
-Cloned repository can be added as an extension via adding `--extension [path to dir containing ExtensionManifest]` to the Upgrade Assistants
-running path.
+Cloned repository can be added as an extension via adding `--extension [path to dir containing ExtensionManifest and .dll file]` to the Upgrade Assistants running path.
 
 ### Choosing TFM
 
